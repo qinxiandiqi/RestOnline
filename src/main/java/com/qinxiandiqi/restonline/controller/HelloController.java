@@ -1,4 +1,4 @@
-package com.qinxiandiqi.restonline;
+package com.qinxiandiqi.restonline.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
